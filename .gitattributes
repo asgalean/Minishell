@@ -1,0 +1,3 @@
+# Merge personalizado para archivos C/H - mantiene cabeceras locales
+*.c merge=header-merge
+*.h merge=header-merge
